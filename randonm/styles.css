@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(196, 196, 196);
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    background-color: rgb(3, 99, 0);
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    }
+
+.color {
+    width: 100%;
+}
+
+.white {
+    background-color: white;
+    height: 15%;
+}
+.red {
+    background: rgb(179, 10, 10);
+    height: 15%;
+
+}
+
+.green2 { 
+    height: 15%;  
+}
+
+.green {
+    height:55% ;
+}
+
